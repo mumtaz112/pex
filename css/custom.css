@@ -395,6 +395,7 @@ section.rush-sec {
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 70px;
+    overflow:hidden;
 }
 
 .rush-info {
